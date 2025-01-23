@@ -1,5 +1,3 @@
-Here's your updated `README.md` file with your correct LinkedIn and GitHub links:
-
 ---
 
 # Decryptor Application
@@ -120,7 +118,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For questions or collaboration inquiries, reach out via:
 
-- **GitHub**: [Nawin-10](https://github.com/Nawin-10)
+- **GitHub**: [Nawin-10](https://github.com/Nawin-Cyber-10)
 - **LinkedIn**: [Nawin Prasath](https://www.linkedin.com/in/nawin10)
 
 ---
